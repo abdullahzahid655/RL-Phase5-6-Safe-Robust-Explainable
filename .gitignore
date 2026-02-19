@@ -1,0 +1,20 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.fls
+
+# PDF outputs
+*.pdf
+
+# Build scripts
+pdflatex-wrapper
+
+# OS files
+.DS_Store
+
