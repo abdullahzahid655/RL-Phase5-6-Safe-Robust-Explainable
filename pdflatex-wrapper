@@ -1,5 +1,0 @@
-#!/bin/bash
-# Wrapper script for pdflatex that always returns 0 if PDF is generated
-pdflatex -interaction=nonstopmode -file-line-error "$@"
-exit 0
-

@@ -1,7 +1,0 @@
-\beamer@sectionintoc {1}{Safe Reinforcement Learning}{4}{0}{1}
-\beamer@sectionintoc {2}{Robust Reinforcement Learning}{10}{0}{2}
-\beamer@sectionintoc {3}{Explainable Reinforcement\\ Learning (XRL)}{15}{0}{3}
-\beamer@sectionintoc {4}{Connecting Phase 5 + Phase 6}{21}{0}{4}
-\beamer@sectionintoc {5}{Practical Resources}{23}{0}{5}
-\beamer@sectionintoc {6}{Integrated RL Project (Phase 5 + 6)}{28}{0}{6}
-\beamer@sectionintoc {7}{Summary \& Next Steps}{30}{0}{7}
